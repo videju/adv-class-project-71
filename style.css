@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+}
+
+#achievments {
+    height: auto;
+    margin-top: 1000px,
+}
+
+#3 {
+    height: 100px;
+}
+
+#title {
+    text-transform: uppercase;
+    text-emphasis-style: filled;
+    color: blue;
+    background-image: linear-gradient(orange, white, green);
+}
+
+.computer_lab {
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    padding-top:200px;
+}
+
+.computer_lab img {
+    width: 100%;
+}
+
+.computer_lab hr {
+    width: 230px;
+}
+
+.computer_lab h5,
+.computer_lab p {
+    margin-left: 20px;
+}
+.videos{
+  border:none;
+ margin:100px;        
+}
+#1st_teacher{
+    
+    
+    
+}
